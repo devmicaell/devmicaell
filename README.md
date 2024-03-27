@@ -55,17 +55,18 @@
   <br>
 ![snake gif](https://github.com/devmicaell/devmicaell/blob/output/github-contribution-grid-snake.gif)
 
+<hr/>
+<h2 align="center"> 📊 Stats </h2>
+<br>
+<div align="center">
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=devmicaell&show_icons=true&theme=vision-friendly-dark&border_radius=20" />
+  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmicaell&layout=compact&theme=vision-friendly-dark&border_radius=20" />
+</div>
 
-### 📊 Stats
+<br/><br/>
+<hr/>
 
-![Micael's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmicaell&show_icons=true&theme=vision-friendly-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmicaell&layout=compact&theme=vision-friendly-dark)
-
-#
-
-<details>
-  <summary><h3>👨‍💻 Micael's Coding Journey</h3></summary>
-pintopt
-  
-</details>
-----
+<h3 align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&color=FFE81F&random=false&width=500&lines=Thanks+for+visiting+me!;May+the+Force+be+with+you!+" alt="Typing SVG" />
+</a>
