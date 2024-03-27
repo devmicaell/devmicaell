@@ -10,39 +10,50 @@
 
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devmicaell&label=Profile%20views&color=0e75b6&style=flat" alt="devmicaell" /> </p>
+<div align="center">
 
+🔭 I’m currently working on [Secretaria da Mulher do Distrito Federal](https://www.mulher.df.gov.br)
 
-- 🔭 I’m currently working on [Secretaria da Mulher do Distrito Federal](https://www.mulher.df.gov.br)
+🌱 I’m currently learning **OutSystems 11, ReactJS & UX/UI Design**
 
-- 🌱 I’m currently learning **OutSystems 11, ReactJS & UX/UI Design**
+💬 Ask me about **Low-Code, Front-End & Star Wars**
 
-- 👨‍💻 All of my projects are available at [https://personal-3oeql6ab.outsystemscloud.com/Portfolio/Home](https://personal-3oeql6ab.outsystemscloud.com/Portfolio/Home)
+📫 How to reach me **micaelkauan@gmail.com**
 
-- 💬 Ask me about **Low-Code, Front-End & Star Wars**
+</div>
 
-- 📫 How to reach me **micaelkauan@gmail.com**
+<div align="center">
+  <a href="mailto:micaelkauan@gmail.com">
+    	<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/micael-chagas/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://personal-3oeql6ab.outsystemscloud.com/Portfolio/Home" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-<p align="left"> <a href="https://twitter.com/mothersmica" target="blank"><img src="https://img.shields.io/twitter/follow/mothersmica?logo=twitter&style=for-the-badge" alt="mothersmica" /></a> </p>
+<hr/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mothersmica" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mothersmica" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/micael-chagas-outsystems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="micael-chagas-outsystems" height="30" width="40" /></a>
-<a href="https://discord.gg/devmicael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="devmicael" height="30" width="40" /></a>
-</p>
+<h2 align="center"> 🧰 Languages and Tools </h2>
+<br>
+  <div align="center">
+    <img alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <img alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+    <img alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+</div>
 
-### 🧰 Languages and Tools:</h3>
+<br/>
+<hr/>
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-<br />
+<div align="center">
+  <h2>🐍 My Contributions🐍</h2>
+  <br>
 
-#
 
 ### 📊 Stats
 
