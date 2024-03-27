@@ -1,10 +1,10 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=page.id" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=devmicaell.devmicaell" />
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=FFE81F&random=false&width=435&lines=Hello+World!%F0%9F%91%8B;I'm+Micael+Freitas!;" />
+    <img src="https://readme-typing-svg.demolab.com?font=&size=35&center=true&vCenter=true&pause=1000&color=FFE81F&random=false&width=435&lines=Hello+World!%F0%9F%91%8B;I'm+Micael+Freitas!" alt="Typing SVG" />
   </a>
-</h1>>
+</h1>
 
 <h3 align="center">A passionate Front-End & OutSystems Developer from Brazil</h3>
 
