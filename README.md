@@ -53,7 +53,7 @@
 <div align="center">
   <h2>🐍 My Contributions🐍</h2>
   <br>
-![snake gif](https://github.com/devmicaell/devmicaell/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/devmicaell/devmicaell/blob/output/github-contribution-grid-snake.svg)
 
 <hr/>
 <h2 align="center"> 📊 Stats </h2>
